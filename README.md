@@ -1,3 +1,7 @@
+
+In this project, I created an end-to-end analysis of AI tool popularity by building a custom dataset, cleaning it in Excel, and visualizing insights in Power BI.
+
+Project Workflow:
 Dataset Creation
 
 Designed a structured dataset tracking 150+ popular AI tools across 4 categories:
