@@ -1,6 +1,6 @@
 Dataset Creation
 
-Designed a structured dataset tracking 15+ popular AI tools across 4 categories:
+Designed a structured dataset tracking 150+ popular AI tools across 4 categories:
 
 Conversational AI (ChatGPT, Gemini, Claude)
 
